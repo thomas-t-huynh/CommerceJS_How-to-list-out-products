@@ -8,7 +8,7 @@ Commerce.js version used in this project is 2.
 
 The link below will take you a codesandbox IDE where you can quickly hop on to see a demo of the project.
 
-[Live_Demo](https://codesandbox.io/s/ecommerce-playground-vp5m6
+[Live_Demo](https://codesandbox.io/s/ecommerce-playground-vp5m6)
 
 ## Overview
 
@@ -215,8 +215,6 @@ We access props like we do with any object, and then type out the values we want
 ![Demo Image](src/images/products-listed.PNG)
 
 Ta Da! We are finished, and now your products finally listed in a customer friendly way. If you click the "Buy now" button, you'll be directed to the product's buy page. 
-
-![Demo Image](demo-receipt.png)
 
 ## The End... or is it?
 
