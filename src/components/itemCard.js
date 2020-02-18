@@ -1,5 +1,4 @@
 import React from "react";
-
 import styled from "styled-components";
 
 const Card = styled.div`
@@ -24,6 +23,8 @@ const BuyButton = styled.button`
   padding: 10px 20px;
 `;
 
+/* Props from the parent component(App.js) can then be used to dynamically list
+out item details */
 const ItemCard = props => {
   return (
     <Card>
