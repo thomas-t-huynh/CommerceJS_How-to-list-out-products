@@ -120,7 +120,7 @@ We now have our product data stored in our web page’s state, now it's time to 
 ```
 As a way to quickly show this is working, I returned p tags with the product's name. You should see a result similar to this one:
  
-![Demo Image](src/images/products-names-listed.png)
+![Demo Image](src/images/products-names-listed.PNG)
  
 ### Create a styled item card to neatly list out products
  
